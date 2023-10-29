@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassir</h1>
 <h3 align="center">A Full-stack Developer Student from morocco</h3>
-<img align="center" src="https://file.notion.so/f/s/7b93f465-44d3-45aa-a58f-54f8549b9b7b/1.gif?id=823fd8f6-6062-46ee-b82b-033b9f78a7b5&table=block&spaceId=6a48d30a-b88d-4062-9572-8b5e8d60f3b4&expirationTimestamp=1698710400000&signature=EazqM3YZ5UBr9hqrlRBxExoCjkaJFLIWGMTISfxxvO0" alt="">
+<img src="" alt="">
 - 🏠 **Casablanca, Morocco 📍**
 
 <h3 align="left">Connect with me:</h3>

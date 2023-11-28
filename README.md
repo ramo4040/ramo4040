@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Yassir</h1>
 <h3 align="center">A Full-stack Developer Student from morocco</h3>
 
-- 🌱 I’m currently learning **bootstrap**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **frontend**
 

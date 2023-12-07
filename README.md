@@ -6,6 +6,8 @@
 <h3 align="center">A Full-stack Developer Student from morocco</h3>
 
 - 🌱 I’m currently learning **JavaScript**
+  
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/654289934352f418f8062665?variant=dark&roadmaps=javascript" alt="roadmap.sh"/></a>
 
 - 💬 Ask me about **frontend**
 
@@ -25,9 +27,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramo4040&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 
 

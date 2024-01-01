@@ -9,6 +9,8 @@
   
 <a href="https://roadmap.sh/javascript?s=654289934352f418f8062665"><img src="https://api.roadmap.sh/v1-badge/wide/654289934352f418f8062665?variant=light&roadmaps=javascript" alt="roadmap.sh"/></a>
 
+<img src="https://www.codewars.com/users/ramo4040/badges/large" width="500">
+
 - 💬 Ask me about **frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramo4040](https://github.com/ramo4040)

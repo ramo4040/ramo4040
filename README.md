@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
   
-<a href="https://roadmap.sh/javascript?s=654289934352f418f8062665"><img src="https://api.roadmap.sh/v1-badge/wide/654289934352f418f8062665?variant=light&roadmaps=javascript" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/654289934352f418f8062665?variant=light&roadmaps=javascript%2Csql)](https://roadmap.sh)
 
 <img src="https://www.codewars.com/users/ramo4040/badges/large" width="500">
 

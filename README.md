@@ -41,5 +41,5 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,php,python,mysql,blender,ps,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,php,python,mysql,blender,ps,postman,notion" />
 </p>

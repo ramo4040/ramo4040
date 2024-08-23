@@ -38,8 +38,23 @@
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Front-end technologies</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,nodejs,expressjs,prisma,mongodb,mysql,php,python,blender,ps,postman,notion" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react" />
+</p>
+<h3 align="center">Back technologies</h3>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,php,nodejs,expressjs,prisma,mongodb" />
+</p>
+<h3 align="center">Other technologies</h3>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,firebase,jquery,jest" />
+</p>
+<h3 align="center">Tools</h3>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,figma,blender,ps,postman,notion,docker,npm" />
 </p>

@@ -10,7 +10,7 @@
 </p>
 
 
-  <p align="center"> I love crafting beautiful and functional user interfaces. Feel free to check out my projects <br> I'm currently expanding my skills by learning PHP, PYTHON, JS</p>
+  <p align="center"> I love crafting beautiful and functional user interfaces. Feel free to check out my projects <br> I'm currently expanding my skills by learning MERN stack</p>
 
 ###
 

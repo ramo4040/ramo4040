@@ -5,7 +5,7 @@
 <h1 align="center">A passionate software developer from Morocco</h1>
 
 <p align="center">
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/654289934352f418f8062665?variant=light&roadmaps=javascript%2Ctypescript%2Cdatastructures-and-algorithms%2Csql" alt="roadmap.sh"/></a> <br>   
+    <img src="https://roadmap.sh/card/wide/654289934352f418f8062665?variant=light&roadmaps=nodejs%2Ctypescript%2Creact%2Capi-design" alt="roadmap.sh"/><br>
     <img src="https://www.codewars.com/users/ramo4040/badges/large" width="500">
 </p>
 
